@@ -1,0 +1,9 @@
+{
+    "staging-mainVpcCidr": {
+        "cidr": "10.0.0.0/16"
+    },
+
+    "production-mainVpcCidr": {
+        "cidr": "10.11.0.0/16"
+    }
+}
